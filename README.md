@@ -1,6 +1,5 @@
 # Udemy
 
-
 1. Alim   --- index.html      		--- https://www.udemy.com/courses/
 2. Sara   --- categories.html 		--- https://www.udemy.com/courses/development/web-development/
 3. Togrul --- myCourses.html 		--- https://www.udemy.com/home/my-courses/learning/
@@ -9,7 +8,8 @@
 6. Sevinc --- account_settings.html --- https://www.udemy.com/user/edit-account/
 7. Sevinc --- edit_profile.html     --- https://www.udemy.com/user/edit-profile/
 
-Index.html sehifesi ile diger sehifeler arasinda elaqe:
+# Index.html sehifesi ile diger sehifeler arasinda elaqe:
+
 0. index.html                                                  -----// Alim
 1.  index.html-> Development->Web development                  ------//Sara
 2.  index.html-> Development->Web development->All courses     ------//Sara
